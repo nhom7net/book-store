@@ -1,0 +1,55 @@
+Book 1
+Title: "To Kill a Mockingbird"
+Author: "Harper Lee"
+Genre: "Fiction"
+Description: "A novel about the serious issues of rape and racial inequality."
+Price: 15.99
+Stock: 25
+
+Book 2
+Title: "1984"
+Author: "George Orwell"
+Genre: "Dystopian"
+Description: "A novel that presents a frightening picture of a totalitarian society."
+Price: 12.50
+Stock: 40
+
+Book 3
+Title: "The Great Gatsby"
+Author: "F. Scott Fitzgerald"
+Genre: "Classic"
+Description: "A story of the mysteriously wealthy Jay Gatsby and his love for Daisy Buchanan."
+Price: 10.75
+Stock: 30
+
+Book 4
+Title: "The Catcher in the Rye"
+Author: "J.D. Salinger"
+Genre: "Literary Fiction"
+Description: "A novel about the struggles of teenage angst and alienation."
+Price: 14.00
+Stock: 18
+
+Book 5
+Title: "Brave New World"
+Author: "Aldous Huxley"
+Genre: "Dystopian"
+Description: "A dystopian novel set in a technologically advanced future."
+Price: 13.50
+Stock: 12
+
+Book 6
+Title: "Pride and Prejudice"
+Author: "Jane Austen"
+Genre: "Romance"
+Description: "A classic novel about love and society in early 19th-century England."
+Price: 11.25
+Stock: 22
+
+Book 7
+Title: "Moby Dick"
+Author: "Herman Melville"
+Genre: "Adventure"
+Description: "The quest of Captain Ahab for revenge against Moby Dick, the giant white whale."
+Price: 11.75
+Stock: 6
